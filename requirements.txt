@@ -4,3 +4,4 @@
 
 azure-functions
 Flask
+flask_swagger_ui == 4.11.1
